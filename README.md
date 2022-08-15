@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tutrf8r8y8wjs9yh/branch/master?svg=true)](https://ci.appveyor.com/project/SergeiVlasov1/aqa-course-project/branch/master)
+
 # Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
 ## О проекте
 
