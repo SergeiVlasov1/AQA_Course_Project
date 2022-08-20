@@ -24,12 +24,14 @@
 ### Документация
 
 - [План автоматизации тестирования](https://github.com/SergeiVlasov1/AQA_Course_Project/tree/master/docs/TestPlan.md)
+- [Отчет по итогам тестирования](https://github.com/SergeiVlasov1/AQA_Course_Project/blob/master/docs/Report.md)
+- [Отчет по итогам автоматизации](https://github.com/SergeiVlasov1/AQA_Course_Project/blob/master/docs/Summary.md)
 
 ### Перед началом работы
 
-***1. Необходимо склонировать [репозиторий](https://github.com/SergeiVlasov1/AQA_Course_Project) с помощью команды `git clone` или воспользоваться VCS Git, встроенной в IntelliJ IDEA.***
-***2. Установить [Docker](https://www.docker.com/), инструкция по установке по [ссылке](https://github.com/netology-code/aqa-homeworks/blob/master/docker/installation.md).***
-***3. Открыть проект в Intellij IDEA, инструкция по установке по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md).***
+1. Необходимо склонировать [репозиторий](https://github.com/SergeiVlasov1/AQA_Course_Project) с помощью команды `git clone` или воспользоваться VCS Git, встроенной в IntelliJ IDEA.
+2. Установить [Docker](https://www.docker.com/), инструкция по установке по [ссылке](https://github.com/netology-code/aqa-homeworks/blob/master/docker/installation.md).
+3. Открыть проект в Intellij IDEA, инструкция по установке по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md).
 
 ### Запуск
 
