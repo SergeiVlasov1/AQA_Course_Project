@@ -110,7 +110,7 @@ public class DataGenerator {
     }
 
     public static String getInvalidOwnerFieldWithOneLetter() {
-        return "A";
+        return "Q";
     }
 
     public static String getInvalidOwnerFieldWithLotsNumberOfLetters() {
@@ -118,7 +118,7 @@ public class DataGenerator {
     }
 
     public static String getInvalidOwnerFieldWithDigits() {
-        return "12345";
+        return "123456789";
     }
 
     public static String getInvalidOwnerFieldWithSymbols() {
