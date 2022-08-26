@@ -14,7 +14,8 @@
 
 **На скриншотах ниже представлены отчеты по итогам тестирования.**
 
-![AllureReport](https://user-images.githubusercontent.com/98306472/185760780-b21061c6-c62d-4295-a52a-28f44ff789bb.jpg)
+![изображение_2022-08-26_174158882](https://user-images.githubusercontent.com/98306472/186917091-979945db-21af-479b-951d-ab00622501be.png)
+
 
 ### **Общие рекомендации:**
 
