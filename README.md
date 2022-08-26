@@ -59,8 +59,14 @@ java -jar artifacts\aqa-shop.jar --spring.datasource.url=jdbc:postgresql://local
 
 Для этого открываем еще одну вкладку в терминале и вводим следующую команду:
 
+- для СУБД MySQL:
+
 ```
-./gradlew clean test
+./gradlew clean test -Ddb.url=jdbc:mysql://localhost:3306/app
+```
+- для СУБД PostgreSQL:
+```
+./gradlew clean test -Ddb.url=url=jdbc:postgresql://localhost:5432/app
 ```
 
 ***4. Генерируем отчет Allure по итогам тестирования***
